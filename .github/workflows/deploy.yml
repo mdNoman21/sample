@@ -31,5 +31,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository }}/ovyweb:latest
+          tags: ghcr.io/mdnoman21/ovyweb:latest
           file: Dockerfile
